@@ -1,4 +1,10 @@
-body{
+@media only screen and (max-width: 400px) {
+    body {
+      background-color: black;
+    }
+  }
+  
+  body{
     background-color: rgba(81, 145, 131, 0.863);
 }
 h1{
